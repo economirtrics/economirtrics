@@ -27,4 +27,4 @@ Census, BLS, BEA and FRED data
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+[LinkedIn](https://www.linkedin.com/in/amirazln)
